@@ -18,7 +18,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+a:link {
   color: #e82d2d;
   text-decoration: none;
 }
