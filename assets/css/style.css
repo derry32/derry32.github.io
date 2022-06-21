@@ -1284,6 +1284,7 @@ section {
   right: 14px;
   font-size: 40px;
   transform: rotate(45deg);
+  cursor: pointer;
 }
 .modal-conten .btn-get-started {
   font-family: "Raleway", sans-serif;
