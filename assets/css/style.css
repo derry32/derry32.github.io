@@ -1299,10 +1299,6 @@ section {
   border: 2px solid #fff;
   color: #fff;
 }
-.modal-content .btn-get-started:hover {
-  background: #cc1616;
-  border-color: #cc1616;
-}
 .modal-content .btn-block {
   width: 100%;
   display: inline-block;
