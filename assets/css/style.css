@@ -1287,7 +1287,7 @@ section {
   transform: rotate(45deg);
   cursor: pointer;
 }
-.modal-conten .btn-get-started {
+.modal-content .btn-get-started {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
