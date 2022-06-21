@@ -1274,6 +1274,7 @@ section {
   color: white;
   padding: 10px 15px;
   border-radius: 10px;
+  cursor: pointer;
   width: 100%;
   margin-bottom:10px;
   opacity: 0.8;
